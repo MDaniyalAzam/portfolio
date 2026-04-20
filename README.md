@@ -1,54 +1,24 @@
-# Muhammad Daniyal Azam - Portfolio
+# Muhammad Daniyal Azam – Portfolio
 
-A modern, responsive portfolio website showcasing AI engineering and full-stack development work.
+This is my personal portfolio website built to showcase my work in data, AI, and software development. It’s a fast, responsive single-page application with a clean UI and modular structure.
 
-## 🚀 Features
+## 🚀 Tech Stack
 
-- **Modern Design**: Clean, minimalist UI with smooth animations
-- **Fully Responsive**: Works seamlessly across all devices
-- **Performance Optimized**: Fast loading and smooth scrolling
-- **React SPA**: Built with React 18 and Vite
-- **Component-Based**: Modular, maintainable architecture
-
-## 🛠️ Tech Stack
-
-- React 18
-- Vite
+- React (Vite)
+- JavaScript (ES6+)
+- CSS3 (custom properties)
 - React Icons
-- CSS3 with Custom Properties
-- Modern JavaScript (ES6+)
 
-## 📦 Installation
+## 📌 About the Project
 
-1. **Clone the repository**
+The portfolio highlights:
 
-   ```bash
-   git clone https://github.com/MDaniyalAzam/portfolio.git
-   cd portfolio
-   ```
+- Selected projects (data + development)
+- Technical skills and areas of expertise
+- Professional experience
+- Contact information
 
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run development server**
-
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173`
-
-## 🏗️ Build for Production
-
-```bash
-npm run build
-```
-
-The optimized build will be in the `dist` folder.
+The goal was to keep it simple, fast, and easy to navigate while still presenting my work clearly.
 
 ## 📁 Project Structure
 
@@ -69,20 +39,6 @@ portfolio/
 ├── package.json
 └── vite.config.js
 ```
-
-## 🎨 Customization
-
-To customize the portfolio for your own use:
-
-1. Update personal information in `Hero.jsx`
-2. Modify projects in `Projects.jsx`
-3. Update work experience in `Experience.jsx`
-4. Adjust skills and expertise in `Expertise.jsx`
-5. Change color scheme in `index.css` (CSS custom properties)
-
-## 📄 License
-
-MIT License - feel free to use this template for your own portfolio!
 
 ## 📧 Contact
 
